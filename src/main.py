@@ -12,7 +12,6 @@ from vector_store import vector_store
 
 
 
-
 if 'buffer_memory' not in st.session_state:
    st.session_state.buffer_memory = ConversationBufferWindowMemory(
        k=3, return_messages=True)
