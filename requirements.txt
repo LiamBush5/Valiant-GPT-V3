@@ -163,7 +163,8 @@ pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.5.0
-pinecone-client==2.2.2
+pinecone==4.0.0
+pinecone-client==3.2.2
 pipenv==2023.6.12
 platformdirs==3.5.3
 posthog==3.0.1
