@@ -11,7 +11,7 @@ google-auth-oauthlib==1.0.0
 
 # Machine learning and data manipulation libraries
 tensorflow==2.13.0
-tensorflow-estimator==2.13.0
+tensorflow-estimator==2.16.0
 tensorflow-macos==2.13.0
 keras==2.13.1
 scikit-learn==1.2.2
