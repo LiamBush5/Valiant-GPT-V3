@@ -11,7 +11,7 @@ google-auth-oauthlib
 
 # Machine learning and data manipulation libraries
 tensorflow
-tensorflow-macos
+tensorflow-macos; platform_system == 'Darwin'
 keras
 scikit-learn
 numpy
