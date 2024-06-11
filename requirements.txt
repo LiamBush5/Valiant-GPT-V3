@@ -1,6 +1,17 @@
+# Streamlit and its components
 streamlit
+streamlit-aggrid
+streamlit-authenticator
+streamlit-chat
+streamlit-oauth
+
+# Google authentication
+google-auth
+google-auth-oauthlib
+
+# Machine learning and data manipulation libraries
 tensorflow
-tensorflow-macos; platform_system == 'Darwin'
+tensorflow-macos
 keras
 scikit-learn
 numpy
@@ -9,15 +20,23 @@ matplotlib
 h5py
 protobuf
 grpcio
+
+# HTTP and OAuth handling
 aiohttp
 httpx
 httpx-oauth
 pydantic
+
+# LangChain-related packages
 langchain
 langchain-core
 langchain-openai
 langchain-pinecone
 openai
+
+# Environment variable management
 python-dotenv
+
+# Additional utilities and libraries
 altair
 requests
