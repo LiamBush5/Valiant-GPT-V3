@@ -40,3 +40,4 @@ python-dotenv
 # Additional utilities and libraries
 altair
 requests
+beautifulsoup4
